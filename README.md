@@ -2,66 +2,63 @@
 
 # 🚀 Nelson Adagi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Enterprise+Systems+Architect;AI+Platform+Engineer;GovTech+Builder;Financial+Systems+Engineer;Healthcare+Technology+Architect;Workflow+Automation+Specialist;Digital+Public+Infrastructure+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=GovTech+%26+AI+Systems+Architect;Enterprise+Workflow+Platform+Builder;Digital+Public+Infrastructure+Engineer;AI-Assisted+Operational+Systems;Healthcare+%7C+Finance+%7C+GovTech+%7C+Telephony" />
 
-<br/>
+---
 
-<img src="https://img.shields.io/github/followers/nelsonadagi?style=for-the-badge&color=blueviolet" />
-<img src="https://img.shields.io/github/stars/nelsonadagi?style=for-the-badge&color=yellow" />
-<img src="https://img.shields.io/badge/Open%20Source-Advocate-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Systems-Builder-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GovTech-Architect-orange?style=for-the-badge" />
+### 🏛️ GovTech & AI Systems Architect
+
+Building AI-powered digital public infrastructure, enterprise workflow systems, and operational platforms across Africa.
+
+---
+
+<img src="https://img.shields.io/badge/AI-Operational_Systems-00bbf9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GovTech-Digital_Public_Infrastructure-f15bb5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare-HMIS_&_Mental_Health-00f5d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Finance-SACCO_&_Core_Banking-fca311?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Telephony-Asterisk_&_VoIP-9b5de5?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nelsonadagi&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nelsonadagi&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🌍 About Me
+# 🌍 Regional Impact
 
-```yaml
-name: Nelson Adagi
-role: Enterprise Systems Architect
-location: Nairobi, Kenya
-specialization:
-  - AI Platforms
-  - GovTech
-  - Financial Systems
-  - Healthcare Systems
-  - Construction Technology
-  - Workflow Automation
-  - Digital Public Infrastructure
+Platforms and systems I have worked on support operations across:
 
-currently_building:
-  - AI-Assisted Helplines
-  - SACCO Core Banking
-  - Mental Health Platforms
-  - Government Workflow Platforms
-  - Construction Operating Systems
-```
+- 🇰🇪 Kenya
+- 🇺🇬 Uganda
+- 🇹🇿 Tanzania
+- 🇸🇴 Somalia
+- 🇱🇸 Lesotho
+
+Including deployments involving:
+
+- Child protection systems
+- National helplines
+- Healthcare digitization
+- SACCO & financial systems
+- Government workflow platforms
+- AI-assisted operational systems
+- Telephony & contact center platforms
 
 ---
 
-# ⚡ What I Build
+# 🏗️ Architecture Focus
 
 <div align="center">
 
-| 🧠 AI Systems | 🏦 Financial Platforms | 🏥 Healthcare Systems |
+| Enterprise Systems | AI & Automation | Infrastructure |
 |---|---|---|
-| Speech-to-Text | SACCO Core Banking | HMIS Platforms |
-| NLP Pipelines | CRM Systems | Mental Health Tech |
-| Workflow Intelligence | Ledger Systems | Referral Systems |
-| Case Prediction | Loan Automation | Patient Workflows |
-
-| 🏛️ GovTech | 🏗️ Construction Tech | ☁️ Infrastructure |
-|---|---|---|
-| Interoperability | Marketplace Platforms | Docker Platforms |
-| Workflow Engines | Procurement Systems | CI/CD |
-| Service Automation | Escrow Workflows | DevOps |
-| Digital Public Goods | Contractor Systems | Scalable Deployments |
+| Workflow Engines | Speech-to-Text | Docker Platforms |
+| GovTech Platforms | NLP Pipelines | CI/CD |
+| Financial Systems | AI Classification | DevOps |
+| HMIS Platforms | Workflow Intelligence | Distributed Services |
+| Telephony Systems | Real-time Analytics | Scalable Deployments |
 
 </div>
 
@@ -73,137 +70,124 @@ currently_building:
 
 ## 🧠 OpenCHS AI Platform
 
-<div align="center">
+AI-assisted survivor-centered case management and helpline platform supporting:
 
-<img src="https://img.shields.io/badge/AI-Powered-ff006e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Voice-Processing-8338ec?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-Classification-3a86ff?style=for-the-badge" />
+- multilingual transcription,
+- AI-assisted classification,
+- workflow orchestration,
+- telephony integration,
+- operational analytics,
+- and safeguarding workflows.
 
-</div>
+### Built Using
 
-### Features
-
-- 🎙 Real-time transcription
-- 🌍 Multilingual translation
-- 🧠 AI-powered case classification
-- ⚙️ Workflow orchestration
-- 📊 Operational analytics
-- ☁️ Scalable AI pipelines
-
----
-
-## 🏦 IQSACCO Core Banking
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Core-Banking-00b4d8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Regulated-Systems-0077b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Production-Ready-03045e?style=for-the-badge" />
-
-</div>
-
-### Features
-
-- 💰 Savings & deposits
-- 📈 Loan lifecycle management
-- 📚 Financial ledger posting
-- 🔐 Audit & compliance
-- 📊 Regulatory reporting
-- ⚡ Workflow automation
+`Django` • `Vue 3` • `Redis` • `Docker` • `Whisper` • `Celery` • `Asterisk`
 
 ---
 
 ## 🏥 OPENHMIS
 
-<div align="center">
+Enterprise healthcare management system aligned with WHO DAK standards.
 
-<img src="https://img.shields.io/badge/Healthcare-Digitization-06d6a0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WHO-DAK-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DHIS2-Integration-purple?style=for-the-badge" />
+### Core Areas
 
-</div>
+- Patient registration
+- Clinical workflows
+- Laboratory systems
+- Pharmacy management
+- DHIS2 interoperability
+- Billing & insurance workflows
 
-### Features
+### Architecture
 
-- 🩺 Clinical workflows
-- 🧪 Laboratory systems
-- 💊 Pharmacy management
-- 📋 Patient registration
-- 📊 Health analytics
-- 🔄 Interoperability
+`FastAPI` • `Django` • `Vue 3` • `RabbitMQ` • `PostgreSQL`
+
+---
+
+## 🏦 IQSACCO Core Banking
+
+Production-oriented SACCO core banking platform designed for regulated environments.
+
+### Capabilities
+
+- Savings & deposits
+- Loan lifecycle automation
+- Financial ledger posting
+- Audit & compliance
+- Production readiness validation
+- Regulatory reporting
+
+### Infrastructure
+
+`Django` • `Vue 3` • `Redis` • `Celery` • `Docker`
 
 ---
 
 ## 🧠 AfyaMind
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Mental-Health-ff4d6d?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pan-African-Platform-f72585?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Therapy-Workflows-b5179e?style=for-the-badge" />
-
-</div>
+Pan-African mental health platform connecting users with licensed therapists.
 
 ### Features
 
-- 🧑‍⚕️ Therapist matching
-- 📅 Session booking
-- 🚨 Crisis escalation
-- 🔐 Consent management
-- 💳 Escrow-backed payments
-- 🌍 Multi-user platform
+- Therapist matching
+- Session workflows
+- Crisis escalation
+- Escrow-backed payments
+- Consent management
+- Mental health analytics
 
 ---
 
 ## 🏛️ Government Services Platform
 
-<div align="center">
+Workflow-driven government service orchestration platform.
 
-<img src="https://img.shields.io/badge/GovTech-Platform-fca311?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-Engine-e85d04?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GEA-Aligned-d00000?style=for-the-badge" />
+### Core Features
 
-</div>
-
-### Features
-
-- ⚙️ Dynamic workflow engine
-- 🏛️ Government service orchestration
-- 🔐 Role-based approvals
-- 📑 Service catalogues
-- 🔄 Cross-agency workflows
-- 📋 Audit trails
+- Dynamic service engine
+- Workflow automation
+- Role-based approvals
+- G2G communication
+- Service catalogues
+- Audit trails
 
 ---
 
 ## 🏗️ Procus v2
 
-<div align="center">
+Construction marketplace and operational ecosystem platform.
 
-<img src="https://img.shields.io/badge/Construction-Tech-f48c06?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Marketplace-Platform-dc2f02?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Enterprise-Operations-9d0208?style=for-the-badge" />
+### Modules
 
-</div>
-
-### Features
-
-- 🏗 Contractor management
-- 📋 Tender workflows
-- 💰 Escrow-backed payments
-- 📦 Procurement systems
-- 📈 Investment workflows
-- 🚚 Logistics coordination
+- Contractor management
+- Tender workflows
+- Escrow-backed milestones
+- Procurement systems
+- Investment workflows
+- Logistics coordination
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Current AI Focus
+
+- Multilingual African language AI
+- Speech-to-text systems
+- AI-assisted safeguarding workflows
+- Retrieval-Augmented Generation (RAG)
+- Semantic workflow orchestration
+- Real-time transcription pipelines
+- AI-powered operational intelligence
+- Human-in-the-loop AI systems
+
+---
+
+# ⚙️ Tech Stack
 
 <div align="center">
 
 ## Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
 
 ---
 
@@ -213,26 +197,28 @@ currently_building:
 
 ---
 
-## Databases & Infrastructure
+## Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux" />
-
----
-
-## DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=githubactions,git,bash,aws,digitalocean" />
+<img src="https://skillicons.dev/icons?i=docker,redis,postgres,nginx,linux" />
 
 ---
 
-## AI & ML
+## Tooling
 
-<img src="https://img.shields.io/badge/Whisper-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-darkgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=git,githubactions,bash" />
 
 </div>
+
+---
+
+# 🎯 Engineering Principles
+
+- Systems should improve operational outcomes
+- AI must remain accountable and human-centered
+- Interoperability should be designed from the start
+- Workflow clarity matters more than feature quantity
+- Infrastructure should be observable and resilient
+- Digital public infrastructure should be reusable and scalable
 
 ---
 
@@ -258,16 +244,6 @@ currently_building:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nelsonadagi&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 # 📈 Activity Graph
 
 <div align="center">
@@ -278,58 +254,28 @@ currently_building:
 
 ---
 
-# 🌟 Engineering Philosophy
+# 🌐 Open Source & Digital Public Infrastructure
 
-<div align="center">
+I strongly believe in building:
 
-## “Great systems should improve operations, support people, scale sustainably, and solve real-world problems.”
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```diff
-+ AI-Assisted Enterprise Platforms
-+ African Language AI Models
-+ GovTech Workflow Engines
-+ SACCO Financial Systems
-+ Healthcare Digitization
-+ Mental Health Technology
-+ Construction Operating Systems
-+ Digital Public Infrastructure
-```
-
----
-
-# 🌐 Open Source & Digital Public Goods
-
-I strongly believe in:
-
-- 🌍 Open digital ecosystems
-- 🔄 Interoperability
-- 🧠 Ethical AI
-- 🔐 Privacy-preserving systems
-- 🏛️ Digital public infrastructure
-- ⚡ Operational intelligence
-- 🤝 Human-centered technology
+- interoperable systems,
+- scalable workflow platforms,
+- ethical AI systems,
+- secure infrastructure,
+- and sustainable digital public infrastructure.
 
 ---
 
 # 🤝 Collaboration Areas
 
-<div align="center">
-
-| Domain | Areas |
-|---|---|
-| 🧠 AI | NLP • Speech Processing • Workflow Intelligence |
-| 🏦 Finance | SACCO Systems • CRM • Core Banking |
-| 🏥 Healthcare | HMIS • Mental Health • Referral Systems |
-| 🏛️ GovTech | Interoperability • Service Automation |
-| 🏗️ Construction | Procurement • Escrow • Contractor Systems |
-
-</div>
+- GovTech
+- AI systems
+- Financial platforms
+- Healthcare technology
+- Mental health systems
+- Telephony systems
+- Enterprise workflow orchestration
+- Digital public infrastructure
 
 ---
 
@@ -351,8 +297,8 @@ I strongly believe in:
 
 <div align="center">
 
-# ⚡ Building Production-Grade Systems For Real Operational Environments ⚡
+# ⚡ Building Production-Grade Operational Systems Across Africa ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bbf9,100:9b5de5&height=120&section=footer"/>
 
 </div>
